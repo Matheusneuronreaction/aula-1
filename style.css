@@ -1,0 +1,9 @@
+body {
+background-color:aliceblue
+}
+.meu-botao{
+    background-color: blueviolet;
+    width: 100px;
+    height: 40px;
+    color: ghostwhite;
+}
